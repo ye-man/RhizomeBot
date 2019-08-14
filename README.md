@@ -11,4 +11,4 @@ RhizomeBot is my attempt at a peer to peer botnet written in Kotlin. This projec
 - Control of network through a single RSA keypair
 - Stealthy communication channels
 
-At the moment, this project is just starting. A bot can connect to another bot and receive unauthenticated commands. 
+At the moment, this project is just starting. Bots can currently connect to another bot and receive unauthenticated commands, provide machine info. 
